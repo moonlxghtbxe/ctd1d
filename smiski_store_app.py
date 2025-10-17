@@ -134,16 +134,16 @@ if 'serial_counter' not in st.session_state:
 PRODUCTS = {
     "Accessories": [
         {"name": "Plush Charm", "image": "plush-charm.png", "price": 12.99, "category": "Accessories"},
-        {"name": "Keychains", "image": "keychains.jpg", "price": 8.99, "category": "Accessories"},
-        {"name": "Hippers", "image": "hippers.jpg", "price": 15.99, "category": "Accessories"}
+        {"name": "Keychains", "image": "keychains.png", "price": 8.99, "category": "Accessories"},
+        {"name": "Hippers", "image": "hippers.png", "price": 15.99, "category": "Accessories"}
     ],
     "Blind Boxes": [
         {"name": "Birthday", "image": "birthday.png", "price": 9.99, "category": "Blind Boxes"},
-        {"name": "Exercise", "image": "exercise.jpg", "price": 9.99, "category": "Blind Boxes"},
-        {"name": "Work", "image": "work.jpg", "price": 9.99, "category": "Blind Boxes"},
-        {"name": "Cheer", "image": "cheer.jpg", "price": 9.99, "category": "Blind Boxes"},
-        {"name": "Moving", "image": "moving.jpg", "price": 9.99, "category": "Blind Boxes"},
-        {"name": "Sunday", "image": "sunday.jpg", "price": 9.99, "category": "Blind Boxes"}
+        {"name": "Exercise", "image": "exercise.png", "price": 9.99, "category": "Blind Boxes"},
+        {"name": "Work", "image": "work.png", "price": 9.99, "category": "Blind Boxes"},
+        {"name": "Cheer", "image": "cheer.png", "price": 9.99, "category": "Blind Boxes"},
+        {"name": "Moving", "image": "moving.png", "price": 9.99, "category": "Blind Boxes"},
+        {"name": "Sunday", "image": "sunday.png", "price": 9.99, "category": "Blind Boxes"}
     ]
 }
 
