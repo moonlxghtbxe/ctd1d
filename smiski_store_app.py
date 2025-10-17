@@ -133,7 +133,7 @@ if 'serial_counter' not in st.session_state:
 # Product data
 PRODUCTS = {
     "Accessories": [
-        {"name": "Plush Charm", "image": "plush-charm.jpg", "price": 12.99, "category": "Accessories"},
+        {"name": "Plush Charm", "image": "plush-charm.png", "price": 12.99, "category": "Accessories"},
         {"name": "Keychains", "image": "keychains.jpg", "price": 8.99, "category": "Accessories"},
         {"name": "Hippers", "image": "hippers.jpg", "price": 15.99, "category": "Accessories"}
     ],
