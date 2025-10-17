@@ -138,7 +138,7 @@ PRODUCTS = {
         {"name": "Hippers", "image": "hippers.jpg", "price": 15.99, "category": "Accessories"}
     ],
     "Blind Boxes": [
-        {"name": "Birthday", "image": "birthday.jpg", "price": 9.99, "category": "Blind Boxes"},
+        {"name": "Birthday", "image": "birthday.png", "price": 9.99, "category": "Blind Boxes"},
         {"name": "Exercise", "image": "exercise.jpg", "price": 9.99, "category": "Blind Boxes"},
         {"name": "Work", "image": "work.jpg", "price": 9.99, "category": "Blind Boxes"},
         {"name": "Cheer", "image": "cheer.jpg", "price": 9.99, "category": "Blind Boxes"},
