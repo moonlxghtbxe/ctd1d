@@ -194,9 +194,9 @@ def store_page():
     # Promotions
     st.markdown("""
     <div class="promotion-box">
-        <h3>🎉 Special Promotions! 🎉</h3>
-        <p>✨ Buy 1 product from each different category and get <strong>20% OFF</strong></p>
-        <p>✨ Buy 6 of the same blind box product and get <strong>15% OFF</strong></p>
+        <h3>Special Promotions!</h3>
+        <p>Buy 1 product from each different category and get <strong>20% OFF</strong></p>
+        <p>Buy 6 of the same blind box product and get <strong>15% OFF</strong></p>
     </div>
     """, unsafe_allow_html=True)
 
